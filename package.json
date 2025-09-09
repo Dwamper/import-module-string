@@ -35,5 +35,6 @@
     "acorn": "^8.15.0",
     "acorn-walk": "^8.3.4",
     "esm-import-transformer": "^3.0.5"
-  }
+  },
+  "types": "import-module-string.d.ts"
 }
